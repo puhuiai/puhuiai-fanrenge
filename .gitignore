@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.bak
+*.bak_*
+*_bak_*
+_bak_*/
+packs_backup/
+packs_draft/
+packs_suggest/
+*.log
+build/
+dist/
+*.zip
+.DS_Store
+Thumbs.db
